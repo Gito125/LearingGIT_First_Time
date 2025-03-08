@@ -1,2 +1,5 @@
 Hello there, this is my work project.
 I'm working with my friends at MUK doing computer science. 😎
+We are currently learning how to use GIT for managing our projects effectively.
+This is really exciting 🤭.
+Im so pumped that I'm learning this stuff...
